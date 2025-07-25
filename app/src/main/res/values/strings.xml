@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transcript</string>
+    <string name="new_transcription">New</string>
+    <string name="from_device">From device</string>
+    <string name="live">Live</string>
+    <string name="permission_required">Permission required to continue</string>
+</resources>
