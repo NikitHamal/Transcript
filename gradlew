@@ -13,7 +13,7 @@ if [ ! -f "$WRAPPER_JAR" ]; then
   curl -sL "$ZIP_URI" -o "$TMP_ZIP"
   mkdir -p "$DIR/gradle/wrapper"
   # Extract only the wrapper jar from the distribution zip
-  unzip -p "$TMP_ZIP" "gradle-${GRADLE_VERSION}/lib/gradle-wrapper.jar" > "$WRAPPER_JAR"
+  unzip -p "$TMP_ZIP" "*/gradle-wrapper.jar" > "$WRAPPER_JAR"
   rm "$TMP_ZIP"
 fi
 
