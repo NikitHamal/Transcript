@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.transcript.local.libvosk'
     compileSdkVersion 33
     defaultConfig {
         minSdkVersion 24
