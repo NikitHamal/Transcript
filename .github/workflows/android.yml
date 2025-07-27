@@ -47,8 +47,6 @@ jobs:
       - name: Make gradlew executable
         run: chmod +x ./gradlew
       - name: Build Release APK
-        env:
-          SKETCHUB_API_KEY: ${{ secrets.SKETCHUB_API_KEY }}
         run: ./gradlew assembleRelease
 
       - name: Set short SHA
@@ -57,7 +55,7 @@ jobs:
 
       - name: Rename APK with commit hash
         run: |
-          mv app/build/outputs/apk/release/app-release.apk \
+          mv app/build/outputs/apk/release/app-release-unsigned.apk \
              app/build/outputs/apk/release/app-release-${{ steps.set_sha.outputs.short_sha }}.apk
 
       - name: Upload Release APK

@@ -1,7 +1,7 @@
 <resources>
 
     <style name="Theme.Transcript.TextView" parent="Widget.MaterialComponents.TextView">
-        <item name="fontFamily">@font/poppins</item>
+        <!-- <item name="fontFamily">@font/poppins</item> -->
         <item name="android:includeFontPadding">false</item>
     </style>
 </resources>

@@ -18,6 +18,7 @@ public class LiveTranscriptionActivity extends AppCompatActivity implements Reco
     private Model model;
     private SpeechService speechService;
     private TextView resultView;
+    private boolean isPaused = false;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -37,7 +38,14 @@ public class LiveTranscriptionActivity extends AppCompatActivity implements Reco
         MaterialButton pauseButton = findViewById(R.id.pause_button);
         pauseButton.setOnClickListener(view -> {
             if (speechService != null) {
-                speechService.setPause(!speechService.isPaused());
+                isPaused = !isPaused;
+                speechService.setPause(isPaused);
+                // Toggle icon between pause and mic
+                if (isPaused) {
+                    pauseButton.setIconResource(R.drawable.ic_mic);
+                } else {
+                    pauseButton.setIconResource(R.drawable.ic_pause);
+                }
             }
         });
 
