@@ -1,0 +1,7 @@
+com.transcript.lib.vosk.lib-vosk-pngs-0 /workspace/lib-vosk/build/generated/res/pngs/release
+com.transcript.lib.vosk.lib-vosk-resValues-1 /workspace/lib-vosk/build/generated/res/resValues/release
+com.transcript.lib.vosk.lib-vosk-mergeReleaseResources-2 /workspace/lib-vosk/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.transcript.lib.vosk.lib-vosk-mergeReleaseResources-3 /workspace/lib-vosk/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.transcript.lib.vosk.lib-vosk-merged_res-4 /workspace/lib-vosk/build/intermediates/merged_res/release
+com.transcript.lib.vosk.lib-vosk-main-5 /workspace/lib-vosk/src/main/res
+com.transcript.lib.vosk.lib-vosk-release-6 /workspace/lib-vosk/src/release/res

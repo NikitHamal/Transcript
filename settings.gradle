@@ -10,8 +10,12 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://jcenter.bintray.com' }
+        maven { url 'https://alphacephei.com/vosk/models' }
+        jcenter()
     }
 }
+
 rootProject.name = "Transcript"
 include ':app'
 include ':lib-vosk'

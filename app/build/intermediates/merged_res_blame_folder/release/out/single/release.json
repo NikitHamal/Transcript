@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/font_poppins.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/font/poppins.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/drawable_ic_mic.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/drawable/ic_mic.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/drawable_ic_pause.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/font_poppins_regular.ttf.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/drawable_ic_folder.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/layout_bottom_sheet_new_transcription.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/layout/bottom_sheet_new_transcription.xml"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/drawable_ic_stop.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/drawable_ic_add.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/layout_activity_transcription.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/layout/activity_transcription.xml"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/layout_activity_live_transcription.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/layout/activity_live_transcription.xml"
+    },
+    {
+        "merged": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/ubuntu/.gradle/daemon/8.0/com.transcript.local.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.transcript.local.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.transcript.local.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

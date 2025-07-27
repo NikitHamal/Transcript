@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml:2:13-83
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml:2:13-83
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml:2:13-83
+	package
+		INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+		ADDED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml:2:13-83
+		INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+	xmlns:android
+		ADDED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml:2:23-81
+uses-sdk
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml reason: use-sdk injection requested
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+	android:targetSdkVersion
+		INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+		ADDED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+		INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+	android:minSdkVersion
+		INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+		ADDED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml
+		INJECTED from /workspace/lib-vosk/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest151570754486195792.xml

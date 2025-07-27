@@ -70,7 +70,7 @@ public class LiveTranscriptionActivity extends AppCompatActivity implements Reco
             Recognizer rec = new Recognizer(model, 16000.0f);
             speechService = new SpeechService(rec, 16000.0f);
             speechService.startListening(this);
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

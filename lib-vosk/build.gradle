@@ -1,7 +1,8 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 33
+    namespace 'com.transcript.lib.vosk'
+    compileSdkVersion 34
     defaultConfig {
         minSdkVersion 24
         targetSdkVersion 33
@@ -12,5 +13,6 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'org.vosk:vosk-android:0.3.32'
+    // Using stub classes instead of actual Vosk dependency
+    // implementation 'org.vosk:vosk-android:0.3.38'
 }

@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_add
+drawable ic_folder
+drawable ic_mic
+drawable ic_pause
+drawable ic_stop
+font poppins
+font poppins_regular
+id empty_state_text
+id fab
+id from_device_button
+id live_button
+id live_transcription_text
+id mute_button
+id pause_button
+id stop_button
+id toolbar
+id transcription_text
+layout activity_live_transcription
+layout activity_main
+layout activity_transcription
+layout bottom_sheet_new_transcription
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Transcript
+style Theme.Transcript.TextView
+xml backup_rules
+xml data_extraction_rules
