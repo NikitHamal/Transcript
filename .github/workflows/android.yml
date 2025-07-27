@@ -26,6 +26,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up JDK 21
+        id: setup_java
         uses: actions/setup-java@v4
         with:
           java-version: 21
@@ -43,6 +44,8 @@ jobs:
         uses: gradle/actions/setup-gradle@v3
         with:
           cache-disabled: true
+        env:
+          JAVA_HOME: ${{ steps.setup_java.outputs.jdk-path }}
 
       - name: Make gradlew executable
         run: chmod +x ./gradlew
