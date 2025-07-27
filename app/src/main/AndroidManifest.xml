@@ -26,6 +26,7 @@
         </activity>
         <activity android:name=".TranscriptionActivity" />
         <activity android:name=".LiveTranscriptionActivity" />
+        <activity android:name=".AboutAppActivity" />
     </application>
 
 </manifest>
